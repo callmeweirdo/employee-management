@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "john Doe",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIvblbr0HLHmhCHr4lhPHxj8JfTbEPW0Kbw&usqp=CAU",
+    "email": "test@gmail.com",
+    "salary": "101,101,101",
+    "date": "2022-06-09",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "mr Doe",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzp9UGaXH53_O2PZ7CUS7ZXKuzoO8eKPM2oA&usqp=CAU",
+    "email": "test@gmail.com",
+    "salary": "101,101,101",
+    "date": "2022-06-09",
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "name": "mr Doe",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBdLFXm1f1VGNFNz5Sqrj3jcBPVP9y0tQvCZGbQmmNdSLUQUuloWMmREyDrHUObDqjg4&usqp=CAU",
+    "email": "test@gmail.com",
+    "salary": "101,101,101",
+    "date": "2022-06-09",
+    "status": "inactive"
+  }
+]
